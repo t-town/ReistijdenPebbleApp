@@ -5,6 +5,7 @@
 #include "util/graphics.h"
 
 #include <pebble.h>
+#define SPLASH_LOGO
 
 void layer_update_callback(Layer *layer, GContext *ctx) {
   SimplySplash *self = (SimplySplash*) window_get_user_data((Window*) layer);

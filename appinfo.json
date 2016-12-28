@@ -4,7 +4,7 @@
     "configurable"
   ],
   "companyName": "T-town",
-  "longName": "R",
+  "longName": "Reistijden",
   "resources": {
     "media": [
       {
@@ -34,9 +34,19 @@
         "type": "png"
       },
       {
+        "file": "images/action_bar_icon_check_black.png",
+        "name": "IMAGE_CHECK_BLACK",
+        "type": "png"
+      },
+      {
         "file": "images/action_bar_icon_dismiss.png",
         "name": "IMAGE_DISMISS",
         "type": "png"
+      },
+      {
+        "file": "fonts/Courier New Bold.ttf",
+        "name": "ROBOTO_30",
+        "type": "font"
       }
     ]
   },
